@@ -147,24 +147,6 @@ matplotlib
 pandas
 ```
 
-
-## File Structure
-
-```
-AI-for-Health/
-├── vis.py                          # Signal visualization script
-├── create_dataset.py               # Data preprocessing and windowing
-├── train.py                        # Model training and evaluation
-├── raw_data/                       # Input physiological signals
-│   ├── participant_1/
-│   ├── participant_2/
-│   └── ...
-├── processed_data/                 # Windowed dataset (output)
-├── visualizations/                 # PDF plots (output)
-├── models/                         # Trained models
-└── requirements.txt                # Python dependencies
-```
-
 ---
 
 ## Disclaimer
