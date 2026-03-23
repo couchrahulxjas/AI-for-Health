@@ -2,7 +2,6 @@
 
 ## Overview
 
-This project detects **breathing irregularities during sleep**. It was completed as a selection task for the **Summer Research Internship Program (SRIP) at IIT Gandhinagar**.
 
 The pipeline processes overnight sleep recordings (~8 hours) from 5 participants, applies signal processing techniques, and trains a 1D Convolutional Neural Network to automatically classify breathing patterns as normal or abnormal.
 
